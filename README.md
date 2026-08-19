@@ -138,11 +138,11 @@ A complete Design Rule Check (DRC) was performed in Pcbnew to ensure zero manufa
 *Fig: 3D isometric perspective view showing PCB substrate, board thickness, through-hole drill pads, and surface routing.*
 
 ### Top View
-![3D Top View](images/Picture7.png)  
+![3D Top View](images/Picture7.jpg)  
 *Fig: 3D top view showing silkscreen footprints, text labels, and component pad locations.*
 
 ### Bottom View
-![3D Bottom View](images/Picture8.png)  
+![3D Bottom View](images/Picture8.jpg)  
 *Fig: 3D bottom view showing bottom copper trace routing and terminal pads.*
 
 ---
