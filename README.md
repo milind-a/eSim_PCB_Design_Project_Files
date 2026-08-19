@@ -60,29 +60,6 @@ The circuit consists of five primary functional stages based on the schematic:
 ## Footprint Assignment
 ![Footprint Assignment](images/Picture3.png)
 
-```text
-1   C1  100n        Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
-2   C2  100n        Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
-3   D1  eSim_Diode  Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal
-4   D2  eSim_LED    LEDs:LED_D5.0mm
-5   D3  eSim_Diode  Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal
-6   J1  eSim_2PinConn   Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm
-7   J2  eSim_2PinConn   Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm
-8   J3  eSim_3PinConn   Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm
-9   Q1  BC547       TO_SOT_Packages_THT:TO-92_Molded_Narrow
-10  R1  LDR03       Opto-Devices:Resistor_LDR_10x8.5_RM7.6
-11  R2  10k         Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-12  R3  10k         Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-13  R4  5k          Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-14  R5  10k         Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-15  R6  5k          Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-16  R7  1k          Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-17  R8  10k         Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-18  R9  1k          Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-19  X1  lm_741      Housings_DIP:DIP-8_W7.62mm
-20  X2  lm_741      Housings_DIP:DIP-8_W7.62mm
-```
-
 ### Component Reference
 
 | Component Reference | Part Name | Schematic Symbol | Assigned PCB Footprint | Purpose |
@@ -134,7 +111,7 @@ A complete Design Rule Check (DRC) was performed in Pcbnew to ensure zero manufa
 ## 3D View
 
 ### Isometric View
-![3D Isometric View](images/Picture7.png)  
+![3D Isometric View](images/Picture7.jpg)  
 *Fig: 3D isometric perspective view showing PCB substrate, board thickness, through-hole drill pads, and surface routing.*
 
 ### Top View
