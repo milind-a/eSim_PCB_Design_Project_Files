@@ -103,7 +103,7 @@ The circuit consists of five primary functional stages based on the schematic:
 ---
 
 ## PCB Layout
-![PCB Layout](images/Picture4.png)
+![PCB Layout](images/Picture5.png)
 
 ---
 
@@ -127,22 +127,22 @@ A complete Design Rule Check (DRC) was performed in Pcbnew to ensure zero manufa
 * **Clearance Violations:** 0
 * **Short Circuits:** 0
 
-![DRC Results](images/Picture5.png)
+![DRC Results](images/Picture6.png)
 
 ---
 
 ## 3D View
 
 ### Isometric View
-![3D Isometric View](images/Picture6.png)  
+![3D Isometric View](images/Picture7.png)  
 *Fig: 3D isometric perspective view showing PCB substrate, board thickness, through-hole drill pads, and surface routing.*
 
 ### Top View
-![3D Top View](images/Picture7.jpg)  
+![3D Top View](images/Picture8.jpg)  
 *Fig: 3D top view showing silkscreen footprints, text labels, and component pad locations.*
 
 ### Bottom View
-![3D Bottom View](images/Picture8.jpg)  
+![3D Bottom View](images/Picture81.jpg)  
 *Fig: 3D bottom view showing bottom copper trace routing and terminal pads.*
 
 ---
